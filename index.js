@@ -1,9 +1,9 @@
-const INPUT = require("fs").readFileSync("input.txt").toString().trim().split("\n");
+const INPUT = require("fs").readFileSync("input.txt").toString().trim().split("\r\n");
+// /dev/stdin
 
 function solution() {
-  console.log(INPUT);
 }
 
 module.exports = solution;
 
-module.exports()
+console.log(module.exports());
