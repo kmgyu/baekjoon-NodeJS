@@ -7,3 +7,6 @@ npm install --save-dev nodemon
 
 https://velog.io/@weed7968/Node.JS-module.export-%EC%99%80-exports%EC%9D%98-%EC%B0%A8%EC%9D%B4
 exports와 module.export의 차이..
+
+실행시키기
+node index.js
